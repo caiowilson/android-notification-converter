@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ANConv</string>
+    <string name="app_name">Android Notification Converter</string>
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
@@ -15,8 +15,8 @@
     <string name="notification_listener_service_name">app notification listener</string>
     <string name="notification_listener_service_explanation">service to listen to notifications</string>
     <string name="nest_notification_listener_service_name">nest notification listener</string>
-    <string name="nest_notification_listener_service_explanation">service to listen to nest notifications</string>
+    <string name="nest_notification_listener_service_explanation">service to listen to mibo notifications</string>
     <string name="yes">YES</string>
     <string name="no">NO</string>
-    <string name="nest_package">com.nest.android</string>
+    <string name="nest_package">br.com.intelbras.mibocam</string>
 </resources>
